@@ -1,0 +1,103 @@
+// 1.EJERCICIO CLCULO DE SUMA DE 5 PRODUCTOS.
+
+//creamos la clase y la importamos
+Scannerreader = new  Scanner ( sumanumeros . in );
+
+
+// hacemos un bueno para la insercion de los productos a sumar
+int  numeroasumar1 = 0 ;
+int  numeroasumar2 = 0 ;
+int  numeroasumar3 = 0 ;
+int  numeroasumar4 = 0 ;
+int  numeroasumar5 = 0 ;
+  
+sumanumeros . fuera _ println ( "Introduce el primer numero:" );      
+numeroasumar1 = lector . siguienteInt ();
+      
+sumanumeros . fuera _ println ( "Introduce el segundo número:" );
+numeroasumar2 = lector . siguienteInt ();
+
+sumanumeros . fuera _ println ( "Introduce el tercer número:" );
+numeroasumar3 = ojeador . siguienteInt ();
+
+sumanumeros . fuera _ println ( "Presenta el cuarto número:" );
+numeroasumar4 = ojeador. siguienteInt ();
+
+sumanumeros . fuera _ println ( "Introduce el quinto numero:" );
+numeroasumar5 = ojeador . siguienteInt ();
+
+// aqui saldra el resultado de la operacion
+resultado = numeroasumar1 + numeroasumar2 + numeroasumar3 + numeroasumar4 + numeroasumar5 ;
+
+//resultado final
+sumanumeros . fuera _ println ( 'La suma de los productos es ' + numeroasumar1 + numeroasumar2 + numeroasumar3 + numeroasumar4 + numeroasumar5 );
+
+
+// 2.EJERCICIO CLCULO DE MULTIPLICACINO DE 5 PRODUCTOS.
+
+//creamos la clase y la importamos
+Scannerreader = new  Scanner ( multiplicacionnumeros.in ) ; _
+
+
+// hacemos un bueno para la insercion de los productos a multiplicar
+int  numeromultiplicar1 = 0 ;
+int  numeromultiplicar2 = 0 ;
+int  numeromultiplicar3 = 0 ;
+int  numeromultiplicar4 = 0 ;
+int  numeromultiplicar5 = 0 ;
+  
+multiplicacion numeros . fuera _ println ( "Introduce el primer numero:" );      
+numeromultiplicar1 = lector . siguienteInt ();
+      
+multiplicacion numeros . fuera _ println ( "Introduce el segundo número:" );
+numeromultiplicar2 = lector . siguienteInt ();
+
+multiplicacion numeros . fuera _ println ( "Introduce el tercer número:" );
+numeromultiplicar3 = lector . siguienteInt ();
+
+multiplicacion numeros . fuera _ println ( "Presenta el cuarto número:" );
+numeromultiplicar4 = lector . siguienteInt ();
+
+multiplicacion numeros . fuera _ println ( "Introduce el quinto numero:" );
+numeromultiplicar5 = lector . siguienteInt ();
+
+// resultado de la operacion
+resultado = numeromultiplicar1 * numeromultiplicar2 * numeromultiplicar3 * numeromultiplicar4 * numeromultiplicar5 ;
+
+//resultado final
+multiplicacion numeros . fuera _ println ( 'La multiplicacion de los productos es ' * numeromultiplicar1 * numeromultiplicar2 * numeromultiplicar3 * numeromultiplicar4 * numeromultiplicar5 );
+
+
+// EJERCICIO CALCULO DEL PROMEDIO DE 5 PRODUCTOS.
+
+//creamos la clase y la importamos
+Scannerreader = nuevo  Scanner ( promedionumeros.in ) ; _
+
+
+// hacemos un bueno para la insercion de los productos para poder marcar el promedio
+int  numeroapromediar1 = 0 ;
+int  numeroapromediar2 = 0 ;
+int  numeroapromediar3 = 0 ;
+int  numeroapromediar4 = 0 ;
+int  numeroapromediar5 = 0 ;
+  
+promedionumeros . fuera _ println ( "Introduce el primer numero:" );      
+numeroapromediar1 = ojeador . siguienteInt ();
+      
+promedionumeros . fuera _ println ( "Introduce el segundo número:" );
+numeroapromediar2 = ojeador . siguienteInt ();
+
+promedionumeros . fuera _ println ( "Introduce el tercer número:" );
+numeroapromediar3 = ojeador . siguienteInt ();
+
+promedionumeros . fuera _ println ( "Presenta el cuarto número:" );
+numeroapromediar4 = ojeador . siguienteInt ();
+
+promedionumeros . fuera _ println ( "Introduce el quinto numero:" );
+numeroapromediar5 = ojeador . siguienteInt ();
+
+// aqui saldra el resultado de la operacion
+resultado = numeroapromediar1 + numeroapromediar2 + numeroapromediar3 + numeroapromediar4 + numeroapromediar5 / 5 ;
+
+//resultado final
+promedionumeros . fuera _ println ( 'el promedio de los productos es ' + ( numeroapromediar1 + numeroapromediar2 + numeroapromediar3 + numeroapromediar4 + numeroapromediar5 )/ 5 );
